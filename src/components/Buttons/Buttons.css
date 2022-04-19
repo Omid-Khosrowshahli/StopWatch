@@ -1,0 +1,20 @@
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 40px;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.stop-btn {
+  background-color: rgb(250, 54, 54);
+  margin-left: 10px;
+}
+
+.start-btn {
+  background-color: rgb(10, 218, 10);
+}
+
+.pause-btn {
+  margin-right: 10px;
+}
